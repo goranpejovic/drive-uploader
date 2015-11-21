@@ -14,7 +14,7 @@ from apiclient.http import MediaFileUpload
 
 CLIENT_SECRET_FILE = 'client_secrets.json'
 CREDENTIALS_FILE = 'credentials.json'
-APPLICATION_NAME = 'ESnet GDrive Uploader'
+APPLICATION_NAME = 'GDrive Uploader'
 SCOPES = 'https://www.googleapis.com/auth/drive'
 
 convert = False
